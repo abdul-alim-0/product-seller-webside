@@ -9,17 +9,16 @@ For more Website Follow Me ➡️   [GitHub](https://github.com/abdul-alim-0)  |
 
 ### For Live Overview ➡️ [Influencer products](https://abdul-alim-0.github.io/product-seller-webside/)<br>
 #### Home Page
-<img src="./website_image/image 1.png" width="900">
+<img src="./web-img/home.png" width="900">
 
 
-#### About Page
-<img src="./website_image/image 2.png" width="900">
+#### Products Page
+<img src="./web-img/products1.png" width="900">
+<img src="./web-img/products.png" width="900">
 
 
-#### resume Page
-<img src="./website_image/image 3.png" width="900">  
-<img src="./website_image/image 4.png" width="900">
-  
+#### Feature & Footer Page
+<img src="./web-img/Feature & footer.png" width="900"> 
 
 
 
